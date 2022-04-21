@@ -1,5 +1,4 @@
 # KaseiToken
-## By TJ McDowell 
 #
 ### A local blockchain was set up using Ganache. Smart contracts were compiled in Solidity using Remix IDE and launched on local blockchain. MetaMask was used as local wallet and interface between Remix and local blockchain.
 #
